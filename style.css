@@ -6,7 +6,7 @@
     padding: 0;
 }
 
-.succe  ss {
+.success {
     color: #A1F65E;
 }
 
@@ -464,6 +464,15 @@
     line-height: 145%;
 }
 
+.timeTable-main--date li:hover {
+    color: #A1F65E;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 145%;
+    transition: 0.1s;
+}
+
 table {
     width: 100%;
     border: 1px solid #50555B;
@@ -496,3 +505,13 @@ th,td {
     line-height: 145%;
 }
 
+
+.timeTable-main--trainers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timeTable-main--trainers p {
+    margin-left: 15px;
+}
