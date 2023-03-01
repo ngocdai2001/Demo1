@@ -55,6 +55,7 @@ body {
     background: #F9F9F9;
     color: #393939;
     text-decoration: none;
+    border: 1px solid #BABABA;
 }
 
 .sub-header {
