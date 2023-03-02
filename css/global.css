@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato&family=Playfair+Display&display=swap');
 
 * {
     box-sizing: border-box;
@@ -36,6 +36,10 @@ body {
     font-weight: 600;
     font-size: 22px;
     line-height: 26px;
+}
+
+.button:hover {
+    opacity: 0.6;
 }
 
 .button-item-green {
