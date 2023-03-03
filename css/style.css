@@ -653,8 +653,7 @@ th,td {
     color: #6A6A6A;
 }
 
-.main-item a {
-    text-decoration: none;
+.main-item span {
     font-weight: 700;
     line-height: 252%;
     text-transform: capitalize;
